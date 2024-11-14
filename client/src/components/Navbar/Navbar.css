@@ -1,0 +1,64 @@
+/* src/components/Navbar.css */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 24px;
+  background-color: #4074a8; /* Dark Slate Blue for a sophisticated look */
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+.navbar-left {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.navbar-logo {
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s ease;
+}
+
+.navbar-logo:hover {
+  color: #ecf0f1; /* Light grayish white for logo hover effect */
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 20px; /* Consistent gap between all elements in the navbar-right section */
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.navbar-link:hover {
+  color: #95a5a6; /* Light gray for link hover effect */
+}
+
+.username {
+  font-size: 18px;
+}
+
+.logout-button {
+  background-color: #e74c3c; /* A muted red for contrast */
+  color: white;
+  border: none;
+  padding: 6px 12px; /* Reduced padding to make button smaller */
+  font-size: 15px; /* Slightly smaller font size */
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.logout-button:hover {
+  background-color: #c0392b; /* Darker red on hover */
+  transform: scale(1.05);
+}
