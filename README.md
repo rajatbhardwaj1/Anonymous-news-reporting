@@ -78,9 +78,9 @@ To set up and run the anonymous news reporting system locally, follow these step
 
 ## References
 The project builds upon cryptographic methods and concepts from various publications:
-- A Framework to Provide Anonymity in Reputation Systems
-- Anonymity in controlled networks: [5]
-- Cryptography fundamentals: [11]
+- Chaum, D. (1983). Blind signatures for untraceable payments. Advances in Cryptology.
+- Miranda, H., & Rodrigues, L. (2008). A framework to provide anonymity in reputation systems. Universidade de Lisboa.
+- Shu, K., Mahudeswaran, S., & Liu, H. (2018). Fakenewsnet: A data repository with news content, social context, and dynamic information for studying fake news on social media. Big Data.
 
 For more information, refer to the project paper or documentation provided in the `docs` folder. 
 
