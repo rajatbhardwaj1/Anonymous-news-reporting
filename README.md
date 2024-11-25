@@ -41,6 +41,7 @@ To set up and run the anonymous news reporting system locally, follow these step
    ```
 
 2. **Install Dependencies**
+   
    In the backed folder
    
    ```bash
@@ -52,7 +53,7 @@ To set up and run the anonymous news reporting system locally, follow these step
    ```
    
 
-4. **Run the Application**
+3. **Run the Application**
    ```bash
    cd backend
    ```
