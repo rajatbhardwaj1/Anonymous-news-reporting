@@ -82,9 +82,4 @@ To set up and run the anonymous news reporting system locally, follow these step
 The project builds upon cryptographic methods and concepts from various publications:
 - Chaum, D. (1983). Blind signatures for untraceable payments. Advances in Cryptology.
 - Miranda, H., & Rodrigues, L. (2008). A framework to provide anonymity in reputation systems. Universidade de Lisboa.
-- Shu, K., Mahudeswaran, S., & Liu, H. (2018). Fakenewsnet: A data repository with news content, social context, and dynamic information for studying fake news on social media. Big Data.
 
-For more information, refer to the project paper or documentation provided in the `docs` folder. 
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for more information.
