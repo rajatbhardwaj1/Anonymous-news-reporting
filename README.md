@@ -3,6 +3,12 @@
 ## Project Overview
 This project is developed as part of COL707 (Introduction to Ethical Issues in Computer Science) at IIT Delhi. It is an anonymous news reporting system built upon the **Reputation Using Pseudonyms (RuP)** algorithm, which combines anonymity and reputation through cryptographic techniques. The main objective is to enable users to report news anonymously while maintaining a reputation system that prevents impersonation or malicious behavior.
 
+## MongoDB 
+-Atlas and can be accessed at: https://cloud.mongodb.com/.
+- **Database Credentials:** 
+   • Username: cs5200439@cse.iitd.ac.in
+   • Password: ethics@project
+  
 ## Key Features
 - **Anonymous Reporting**: Allows users to report news without revealing their real identity, protecting user privacy.
 - **Reputation System**: Implements a pseudonymous reputation mechanism where user identity is hidden, yet reputation is verifiable.
