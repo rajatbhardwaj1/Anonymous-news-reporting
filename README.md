@@ -41,17 +41,18 @@ To set up and run the anonymous news reporting system locally, follow these step
    ```
 
 2. **Install Dependencies**
+   In the backed folder
+   
    ```bash
    pip install -r requirements.txt
    ```
-   ```bash
-   cd client
-   ```
+   In the client folder
    ```bash
    npm install
    ```
+   
 
-3. **Run the Application**
+4. **Run the Application**
    ```bash
    cd backend
    ```
